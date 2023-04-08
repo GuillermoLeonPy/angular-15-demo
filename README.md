@@ -1,4 +1,4 @@
-# Angular15DemoApplication
+# angular-15-demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
@@ -29,6 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Setup & run steps
 
 ##############
+
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 
 source .bashrc
