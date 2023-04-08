@@ -1,0 +1,93 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Guillermo",
+      "password": "123",
+      "email": "g@g.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "testuser",
+      "name": "Test User",
+      "password": "Test@1234",
+      "email": "test@in.com",
+      "gender": "male",
+      "role": "auditor",
+      "isactive": false
+    },
+    {
+      "id": "jhon1",
+      "name": "NT Infotech",
+      "password": "Test@1233",
+      "email": "te@in.com",
+      "gender": "male",
+      "role": "tech",
+      "isactive": true,
+      "address": {
+        "area": "chennai"
+      }
+    },
+    {
+      "id": "ntuser",
+      "name": "ramesh",
+      "password": "Test@1234",
+      "email": "te@in.com",
+      "gender": "male",
+      "role": "tech",
+      "isactive": true,
+      "address": {
+        "area": "banglore"
+      }
+    },
+    {
+      "id": "ntuser2",
+      "name": "ramesh2",
+      "password": "Test2@1234",
+      "email": "te2@in.com",
+      "gender": "male",
+      "role": "tech",
+      "isactive": true,
+      "address": {
+        "area": "banglore"
+      }
+    },
+    {
+      "id": "ntuser3",
+      "name": "ramesh3",
+      "password": "Test3@1234",
+      "email": "te3@in.com",
+      "gender": "male",
+      "role": "tech",
+      "isactive": true,
+      "address": {
+        "area": "banglore"
+      }
+    },
+    {
+      "id": "anafrank",
+      "name": "Ana",
+      "password": "123",
+      "email": "ana@a.com",
+      "gender": "female",
+      "role": "auditor",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "admin",
+      "name": "Administrator"
+    },
+    {
+      "code": "tech",
+      "name": "Technical staff"
+    },
+    {
+      "code": "auditor",
+      "name": "Auditor staff"
+    }
+  ]
+}
